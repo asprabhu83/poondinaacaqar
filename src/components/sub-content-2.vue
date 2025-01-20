@@ -133,6 +133,13 @@
                                         <a v-for="item in tables.t2_4_1_3" :key="item.id" :href="$store.state.siteUrl + item.link" target="_blank">{{item.name}}</a>
                                     </div>
                                 </div>
+                                
+                                <div class="year_category2" v-if="cat.path == '2.2.1'">
+                                    <div class="year_head"><img class="send_icon" src="@/assets/send.svg" alt="">Tutorial Register</div>
+                                    <div class="year_items2">
+                                        <a v-for="item in tables.t_2_2_1_tutorial" :key="item.id" :href="$store.state.siteUrl + item.link" target="_blank">{{item.name}}</a>
+                                    </div>
+                                </div>
                                 <div class="year_category2" v-if="cat.path == '2.3.4'">
                                     <div class="year_head"><img class="send_icon" src="@/assets/send.svg" alt="">Teaching plan</div>
                                     <div class="year_items2">

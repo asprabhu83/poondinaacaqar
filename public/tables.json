@@ -362,23 +362,6 @@
             "phd": "/pdf/Ph.D.L.I.S.pdf"
         }
     ],
-    "t_1_2_3": [
-        {
-            "id": 1,
-            "name": "Academic Council Meeting for the Academic year 2007 - 2008",
-            "link": "/pdf/2007_2008.pdf"
-        },
-        {
-            "id": 2,
-            "name": "Academic Council Meeting for the Academic year 2008 - 2009",
-            "link": "/pdf/2008_2009.pdf"
-        },
-        {
-            "id": 3,
-            "name": "Structure of the program",
-            "link": "/pdf/structure.pdf"
-        }
-    ],
     "one_3_7_2": [
         {
             "id": 1,
@@ -3993,6 +3976,73 @@
             "id": 2,
             "name": "Students seminar",
             "link": "/pdf/2.2.1_5_Student_Seminars.pdf"
+        }
+    ],
+    "t_2_2_1_tutorial": [
+        {
+            "id": 1,
+            "name": "Botany",
+            "link": "/pdf/teaching_plan/Teaching_Plan_Botany.pdf"
+        },
+        {
+            "id": 2,
+            "name": "Business Administration",
+            "link": "/pdf/teaching_plan/Teaching_Plan_MBA.pdf"
+        },
+        {
+            "id": 3,
+            "name": "Chemistry",
+            "link": "/pdf/teaching_plan/Teaching_Plan_Chemistry.pdf"
+        },
+        {
+            "id": 4,
+            "name": "Commerce",
+            "link": "/pdf/teaching_plan/Teaching_Plan_Commerce.pdf"
+        },
+        {
+            "id": 5,
+            "name": "Economics",
+            "link": "/pdf/teaching_plan/Teaching_Plan_Economics.pdf"
+        },
+        {
+            "id": 6,
+            "name": "English",
+            "link": "/pdf/teaching_plan/Teaching_Plan_English.pdf"
+        },
+        {
+            "id": 7,
+            "name": "History",
+            "link": "/pdf/teaching_plan/History.pdf"
+        },
+        {
+            "id": 8,
+            "name": "Maths",
+            "link": "/pdf/teaching_plan/Teaching_Plan_Maths.pdf"
+        },
+        {
+            "id": 9,
+            "name": "Microbiology",
+            "link": "/pdf/teaching_plan/Microbiology.pdf"
+        },
+        {
+            "id": 10,
+            "name": "Physical Education",
+            "link": "/pdf/teaching_plan/Teaching_Plan_Phy_edu.pdf"
+        },
+        {
+            "id": 11,
+            "name": "Statistics",
+            "link": "/pdf/teaching_plan/Statistics.pdf"
+        },
+        {
+            "id": 12,
+            "name": "Tamil",
+            "link": "/pdf/teaching_plan/Teaching_Plan_Tamil.pdf"
+        },
+        {
+            "id": 13,
+            "name": "Zoology",
+            "link": "/pdf/teaching_plan/Teaching_Plan_Zoology.pdf"
         }
     ],
     "t2_2_2_1": [
