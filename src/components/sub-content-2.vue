@@ -218,12 +218,12 @@
                                             <router-link v-for="item in tables.main_5_1_1" :key="item.id" :to="item.link">{{item.name}}</router-link>
                                         </div>
                                 </div>
-                                <div class="year_category" v-if="cat.path == '1.1.3'" >
+                                <!--<div class="year_category" v-if="cat.path == '1.1.3'" >
                                         <div class="year_head"><img class="send_icon" src="@/assets/send.svg" alt="">Courses focus on employability</div>
                                         <div class="year_items">
                                             <router-link v-for="item in tables.main_1_1_3" :key="item.id" :to="item.link">{{item.name}}</router-link>
                                         </div>
-                                </div>
+                                </div>-->
                                 <div class="year_category" v-if="cat.path == '3.6.2'" >
                                         <div class="year_head"><img class="send_icon" src="@/assets/send.svg" alt=""> Awards and Recognition recieved for extension activities</div>
                                         <div class="year_items">
